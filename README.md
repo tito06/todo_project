@@ -1,3 +1,8 @@
 # todo_project
 
-A new Flutter project.
+To Do app 
+
+Add task,
+checkbox,
+longpress delete
+bloc architechture.
